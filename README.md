@@ -21,7 +21,7 @@ The data started with 1252 different cryptocurrencies with 6 different columns o
 Looking at the eblow curve, I determined that k=4 or 4 cluster groups is what I will use to group our data.  
 <img src="Resources/elbow_curve.PNG">  
 
-3 principal components were created from reducing the data dimenions for plotting our 3D graph. We can see from our 3D graph, class 1, 2, and 3 have minimal data points compared to that of class 0.  
+Three principal components were created from reducing the data dimenions for plotting our 3D graph. We can see from our 3D graph, class 1, 2, and 3 have minimal data points compared to that of class 0.  
 <img src="Resources/3d_model.PNG">  
 
 A 2D graph was also created displaying the relationship between "Total Coins Mined" vs. "Total Coin Supply".  
@@ -30,13 +30,10 @@ A 2D graph was also created displaying the relationship between "Total Coins Min
 ## Summary  
 
 **Conclusion**  
-NEED TO COMPLETE  
-
+From my analysis, it was concluded that there were minimal data points for classes 1, 2, and 3. I would recommend further reviewing those data points for accuracy. It would be intresting to see how the graphs and cluster groupings would change with these data points removed.  
 
 ### Codes Used  
 
 NEED to update
 (Please look at specific files for codes used)  
-Code for [creating the four tables](https://github.com/tonywang3571/Amanzon_Vine_Analysis/blob/master/Amazon_Reviews_ETL.ipynb)  
-(NOTE: Error did occur when creating review_id_table due to data already loaded into SQL database)  
-Code for [vine_review calculations](https://github.com/tonywang3571/Amanzon_Vine_Analysis/blob/master/Vine_Review_Analysis.ipynb)  
+Code for [analysis](https://github.com/tonywang3571/Cryptocurrencies/blob/master/crypto_clustering.ipynb)  
