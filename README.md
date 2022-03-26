@@ -34,6 +34,7 @@ From my analysis, it was concluded that there were minimal data points for class
 - Class 1: BitTorrent  
 - Class 2: TurtleCoin  
 - Class 3: ByteCoin, EliteCoin, gCn Coin, MoonCoin, Newton Coin, Qwertycoin  
+
 I would recommend further reviewing those data points for accuracy. It would be intresting to see how the graphs and cluster groupings would change with these data points removed.  
 
 ### Codes Used  
