@@ -38,7 +38,5 @@ From my analysis, it was concluded that there were minimal data points for class
 I would recommend further reviewing those data points for accuracy. It would be intresting to see how the graphs and cluster groupings would change with these data points removed.  
 
 ### Codes Used  
-
-NEED to update
 (Please look at specific files for codes used)  
 Code for [analysis](https://github.com/tonywang3571/Cryptocurrencies/blob/master/crypto_clustering.ipynb)  
